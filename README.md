@@ -4,10 +4,14 @@
 
 #### 정리자료
 
+#### API 개발 기본
 ##### https://minwoo-it-factory.tistory.com/125
 
+#### API 개발 고급 -지연로딩과 조회 성능 최적화
 ##### https://minwoo-it-factory.tistory.com/126
 
+#### API 개발 고급 - 컬렉션 조회 최적화
 ##### https://minwoo-it-factory.tistory.com/127
 
+#### API 개발 고급 - 컬렉션 조회 최적화 정리
 ##### https://minwoo-it-factory.tistory.com/128
