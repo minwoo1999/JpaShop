@@ -1,2 +1,13 @@
 # JpaShop
-JpaShop활용1,2 ToOne ,ToMany 관계에서 성능최적화 등등
+
+![image](https://user-images.githubusercontent.com/79193811/213066594-c17b4569-7fa2-4259-8521-d035fda17516.png)
+
+## 정리자료
+
+#### https://minwoo-it-factory.tistory.com/125
+
+#### https://minwoo-it-factory.tistory.com/126
+
+#### https://minwoo-it-factory.tistory.com/127
+
+#### https://minwoo-it-factory.tistory.com/128
